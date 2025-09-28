@@ -15,7 +15,7 @@
     <th>Курс</th>
     <th>Практическая работа</th>
     <th>Описание</th>
-    <th>Дата получения</th>
+    <th>Дата </th>
   </tr>
   <tr>
     <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (Stepik)</a></td>
