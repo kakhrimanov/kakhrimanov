@@ -30,7 +30,7 @@
     <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (Stepik)</a></td>
     <td>Добавлю позже</td>
     <td>Добавлю позже</td>
-    <td>2025-09</td>
+    <td>2025-09-26</td>
   </tr>
   <tr>
     <td><a href="https://stepik.org/cert/2935091" target="_blank">Поколение Python: курс для начинающих (Stepik)</a></td>
