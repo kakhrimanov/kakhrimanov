@@ -28,8 +28,8 @@
   </tr>
   <tr>
     <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (Stepik)</a></td>
-    <td>Добавлю позже</td>
-    <td>Типы данных bool и NoneType, вложенные списки, кортежи, множества (типы данных set и frozenset), словари (тип данных dict), случайные числа (модуль random), модули decimal, fraction, complex, черепашья графика (модуль turtle), встроенные и пользовательские функции, текстовые файлы</td>
+    <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/0e4c24aae9c0a68ab115cf67b4de2eae42b856fa/python_generation/python_generation_course_for_advanced" target="_blank">Решения задач</a></td>
+    <td>Типы данных bool и NoneType, вложенные списки, кортежи, множества (типы данных set и frozenset), словари (тип данных dict), случайные числа (модуль random), модули decimal, fraction, встроенные и пользовательские функции, текстовые файлы</td>
     <td>2025-09-26</td>
   </tr>
   <tr>
@@ -39,7 +39,6 @@
     <td>2025-08-13</td>
   </tr>
 </table>
-
 
 
 
