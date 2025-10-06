@@ -24,19 +24,19 @@
     <th>Курс</th>
     <th>Практическая работа</th>
     <th>Описание</th>
-    <th>Дата </th>
+    <!-- <th>Дата </th> -->
   </tr>
   <tr>
     <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (Stepik)</a></td>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/242f81810b763b8fc4fc715319ee002fdb0f5ee1/education/python_generation/python_generation_course_for_advanced" target="_blank">Решения задач</a></td>
     <td>Типы данных bool и NoneType, вложенные списки, кортежи, множества (типы данных set и frozenset), словари (тип данных dict), случайные числа (модуль random), модули decimal, fraction, встроенные и пользовательские функции, текстовые файлы</td>
-    <td>2025-09-26</td>
+    <!-- <td>2025-09-26</td> -->
   </tr>
   <tr>
     <td><a href="https://stepik.org/cert/2935091" target="_blank">Поколение Python: курс для начинающих (Stepik)</a></td>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/blob/bdc577bca21c4258479c15c4b2fc350b952fe2e/python_generation/python_generation_course_for_beginners.ipynb" target="_blank">Решения задач</a></td>
     <td>Ввод-вывод данных, условный оператор, числовые типы данных int и float, логические операторы and, or, not, строковый тип данных str, модуль math, циклы for и while, функция range, тип данных list, списочные выражения, встроенные и пользовательские функции</td>
-    <td>2025-08-13</td>
+    <!-- <td>2025-08-13</td> -->
   </tr>
 </table>
 
