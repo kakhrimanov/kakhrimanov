@@ -41,7 +41,7 @@
     <tr>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/blob/e447ee1c9e11ffd4db62c96e9bc9160ba93a997a/education/other/Certificate_1C_Professional.pdf" target="_blank">1С: Профессионал </a></td>
     <td>Сдача экзамена</td>
-    <td>Платформа 1С</td>
+    <td>Платформа 1С: 8.3</td>
     <!-- <td>2025-08-13</td> -->
   </tr>
 </table>
