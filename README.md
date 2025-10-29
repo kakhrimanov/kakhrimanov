@@ -39,16 +39,22 @@
     <!-- <th>Дата </th> -->
   </tr>
   <tr>
-    <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (Stepik)</a></td>
+    <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (stepik)</a></td>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/242f81810b763b8fc4fc715319ee002fdb0f5ee1/education/python_generation/python_generation_course_for_advanced" target="_blank">Решения задач</a></td>
     <td>Типы данных bool и NoneType, вложенные списки, кортежи, множества (типы данных set и frozenset), словари (тип данных dict), случайные числа (модуль random), модули decimal, fraction, встроенные и пользовательские функции, текстовые файлы</td>
     <!-- <td>2025-09-26</td> -->
   </tr>
   <tr>
-    <td><a href="https://stepik.org/cert/2935091" target="_blank">Поколение Python: курс для начинающих (Stepik)</a></td>
+    <td><a href="https://stepik.org/cert/2935091" target="_blank">Поколение Python: курс для начинающих (stepik)</a></td>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/blob/bdc577bca21c4258479c15c4b2fc350b952fe2e/python_generation/python_generation_course_for_beginners.ipynb" target="_blank">Решения задач</a></td>
     <td>Ввод-вывод данных, условный оператор, числовые типы данных int и float, логические операторы and, or, not, строковый тип данных str, модуль math, циклы for и while, функция range, тип данных list, списочные выражения, встроенные и пользовательские функции</td>
     <!-- <td>2025-08-13</td> -->
+  </tr>
+  <tr>
+    <td><a href="https://lab.karpov.courses/certificate/ba233951-0c5c-4487-9735-ba6074f9d8eb/" target="_blank">Симулятор SQL (karpov.courses)</a></td>
+    <td><a href="https://redash.public.karpov.courses/queries/105890/source" target="_blank">Решения задач</a></td>
+    <td>Фильтрация, группировка и агрегация, соединения, оконные функции. Продуктовые задачи</td>
+    <!-- <td>2025-05-31</td> -->
   </tr>
     <tr>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/blob/e447ee1c9e11ffd4db62c96e9bc9160ba93a997a/education/other/Certificate_1C_Professional.pdf" target="_blank">1С: Профессионал </a></td>
