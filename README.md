@@ -1,6 +1,6 @@
 # Привет, меня зовут Омар! 👋  
 
-<a href="https://t.me/YourTelegram" target="_blank">
+<a href="https://t.me/inflaer" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" />
 </a>  
 
