@@ -70,6 +70,9 @@
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/blob/e447ee1c9e11ffd4db62c96e9bc9160ba93a997a/education/other/Certificate_1C_Professional.pdf" target="_blank">1С: Профессионал </a></td>
     <td>Сдача экзамена</td>
     <td>Основные механизмы по платформе 1С: 8.3</td>
+    <td>
+      <img src="https://toplogos.ru/images/thumbs/preview-logo-1c.png" width="28" title="PostgreSQL">
+    </td>
     <!-- <td>2024-07-24</td> -->
   </tr>
 </table>
