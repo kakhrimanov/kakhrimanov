@@ -39,6 +39,26 @@
     <th>Стек</th>
     <!-- <th>Дата </th> -->
   </tr>
+
+ <tr>
+    <td><a href="https://stepik.org/cert/3016127" target="_blank">Изучаем Pandas на финансовых данных (stepik)</a></td>
+    <td>Прохожу</td>
+    <td>DataFrame, Series, дата и время, объединение датафреймов, группировка и агрегирование данных</td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python">
+    </td>
+    <!-- <td>2025-09-26</td> -->
+  </tr>
+
+  <tr>
+    <td>Поколение Python: курс для профессионалов (stepik)</a></td>
+    <td>Прохожу</td>
+    <td>-</td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python">
+    </td>
+    <!-- <td>2025-12-31</td> -->
+  </tr>
   <tr>
     <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (stepik)</a></td>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/242f81810b763b8fc4fc715319ee002fdb0f5ee1/education/python_generation/python_generation_course_for_advanced" target="_blank">Решения задач</a></td>
