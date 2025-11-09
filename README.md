@@ -54,7 +54,7 @@
  
   <tr>
     <td><a href="https://stepik.org/cert/2969784" target="_blank">Поколение Python: курс для продвинутых (stepik)</a></td>
-    <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/242f81810b763b8fc4fc715319ee002fdb0f5ee1/education/python_generation/python_generation_course_for_advanced" target="_blank">Решения задач</a></td>
+    <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/1f6cb890e41aa4e5d682e86a19ac9edc81d25964/education/python_generation/python_generation_course_for_advanced" target="_blank">Решения задач</a></td>
     <td>Типы данных bool и NoneType, вложенные списки, кортежи, множества (типы данных set и frozenset), словари (тип данных dict), случайные числа (модуль random), модули decimal, fraction, встроенные и пользовательские функции, текстовые файлы</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python">
