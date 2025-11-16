@@ -17,7 +17,7 @@
   <tr>
     <td><a href="https://datalens.yandex/16lzz3g2eb1sm?tab=Mr" target="_blank">Показатели удовлетворенности брендов (Yandex DataLens)</a></td>
     <td>Аналитический дашборд для команды маркетплейсов. Отражает выручку, рейтинг, CSI (доля товаров с рейтингом > 4.3) и число отзывов. Реализованы фильтры по брендам, категориям и предметам, а также документация и FAQ внутри проекта.</td>
-    <td>Yandex DataLens</td>
+    <td>Python (Jupyter Notebook), PostgreSQL, Yandex DataLens</td>
   </tr>
 </table>
 
