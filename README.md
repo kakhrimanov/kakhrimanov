@@ -15,8 +15,8 @@
   </tr>
 
   <tr>
-    <td><a href="https://datalens.yandex/16lzz3g2eb1sm?tab=Mr" target="_blank">Показатели удовлетворенности брендов (Yandex DataLens)</a></td>
-    <td>Аналитический дашборд для команды маркетплейсов. Отражает выручку, рейтинг, CSI (доля товаров с рейтингом > 4.3) и число отзывов. Реализованы фильтры по брендам, категориям и предметам, а также документация и FAQ внутри проекта.</td>
+    <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/f0d775d634bf9be2f44b1875ba573632270ed9eb/projects/cryptocurrency" target="_blank"> Исследование и визуализация исторических данных по криптовалютам за 2013–2021 годы </a></td>
+    <td>Исторический анализ цен и рыночной капитализации криптовалют. Предобработка данных в Python, расчёт метрик в PostgreSQL и интерактивная визуализация в DataLens по <a href="https://datalens.yandex/et1ycgf9n5a6z" target="_blank"> ссылке </td>
     <td>Python (Jupyter Notebook), PostgreSQL, Yandex DataLens</td>
   </tr>
 </table>
