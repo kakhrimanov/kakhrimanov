@@ -45,7 +45,7 @@
     <td><a href="https://stepik.org/cert/3030484" target="_blank">Оконные функции SQL (stepik)</a></td>
     <td>Прохожу курс</a>
     </td>
-    <td>Оконные функции SQ:</td>
+    <td>Оконные функции SQL </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" title="PostgreSQL">
     </td>
