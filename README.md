@@ -40,6 +40,19 @@
     <!-- <th>Дата </th> -->
   </tr>
 
+
+ <tr>
+    <td><a href="https://stepik.org/cert/3030484" target="_blank">Оконные функции SQL (stepik)</a></td>
+    <td>Прохожу курс</a>
+    </td>
+    <td>Оконные функции SQ:</td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" title="PostgreSQL">
+    </td>
+    <!-- <td>2025-09-26</td> -->
+  </tr>
+
+
  <tr>
     <td><a href="https://stepik.org/cert/3016127" target="_blank">Изучаем Pandas на финансовых данных (stepik)</a></td>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/1f6cb890e41aa4e5d682e86a19ac9edc81d25964/education/python_pandas
