@@ -52,6 +52,16 @@
     <!-- <td>2025-09-26</td> -->
   </tr>
 
+ <tr>
+    <td><a href="https://stepik.org/cert/3035513" target="_blank">Библиотека Matplotlib (stepik)</a></td>
+    <td> Теория и тесты </a>
+    </td>
+    <td> Теоретический материал по визуализации в Python </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python">
+    </td>
+    <!-- <td>2025-09-26</td> -->
+  </tr>
 
  <tr>
     <td><a href="https://stepik.org/cert/3016127" target="_blank">Изучаем Pandas на финансовых данных (stepik)</a></td>
