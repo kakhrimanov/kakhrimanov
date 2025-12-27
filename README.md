@@ -43,7 +43,7 @@
 
  <tr>
     <td><a href="https://stepik.org/cert/3030484" target="_blank">Оконные функции SQL (stepik)</a></td>
-    <td>Прохожу курс</a>
+    <td> <a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/340c3c2e8ca57c9a272a433aa804d5d6557aaaed/education/sql" target="_blank">Решения задач</a>
     </td>
     <td>Оконные функции SQL </td>
     <td>
