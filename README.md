@@ -8,6 +8,12 @@
     <th>Описание</th>
     <th>Технологии</th>
   </tr>
+  <tr>
+    <td><a href="https://github.com/kakhrimanov/pandas_superstore_practice" target="_blank"> Практические задания по библиотекам pandas, matplotlib и seaborn </a></td>
+    <td>Практический тренажёр по анализу данных: работа с табличными данными, агрегации и визуализация в Python на датасете SuperStore</td>
+    <td>Python (Jupyter Notebook)</td>
+  </tr>
+
 
   <tr>
     <td><a href="https://github.com/kakhrimanov/projects_kakhrimanov/tree/f0d775d634bf9be2f44b1875ba573632270ed9eb/projects/cryptocurrency" target="_blank"> Исследование и визуализация исторических данных по криптовалютам за 2013–2021 годы </a></td>
